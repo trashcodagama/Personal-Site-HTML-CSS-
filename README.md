@@ -1,6 +1,6 @@
 # Personal Website
 
-![Personal Website](https://trashcodagama.github.io/Personal-Site-HTML-CSS-/)
+https://trashcodagama.github.io/Personal-Site-HTML-CSS-/
 
 ## Overview
 
